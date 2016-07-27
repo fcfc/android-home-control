@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <array name="security">
+    <item>Front Entry Camera</item>
+    <item>Back Camera</item>
+    <item>Deck Camera</item>
+    <item>Inside Front Door Camera</item>
+    <item>Room 5 Camera</item>
+    <item>Room 6 Camera</item>
+    <item>Room 7 Camera</item>
+    <item>Room 8 Camera</item>
+  </array>
+
+  <array name="cameras">
+    <item>Front Entry Camera</item>
+    <item>Back Camera</item>
+    <item>Deck Camera</item>
+    <item>Inside Front Door Camera</item>
+    <item>Room 5 Camera</item>
+    <item>Room 6 Camera</item>
+    <item>Room 7 Camera</item>
+    <item>Room 8 Camera</item>
+  </array>
+
+  <array name="lights">
+    <item>Front Door Light</item>
+    <item>Back Door Light</item>
+    <item>Living Room Light</item>
+    <item>Hall Light</item>
+    <item>Closet Lights</item>
+    <item>Bathroom Lights</item>
+    <item>Kitchen Lights</item>
+    <item>Back Room Lights</item>
+    <item>Study Lights</item>
+    <item>Outlet 2</item>
+  </array>
+  <array name="thermostat">
+    <item>Cool To</item>
+    <item>Heat To</item>
+    <item>Mode</item>
+    <item>Fan Mode</item>
+    <item>Current Temp</item>
+    <item>Temp Graph</item>
+    <item>Camera 1</item>
+    <item>Camera 2</item>
+
+  </array>
+  <array name="locks">
+    <item>Front Door 1 Lock</item>
+    <item>Front Door 2 Lock</item>
+    <item>Back Door 1 Lock</item>
+    <item>Back Door 2 Lock</item>
+    <item>Closet 1</item>
+    <item>Closet 2</item>
+    <item>Padlock 1</item>
+    <item>Padlock 2</item>
+  </array>
+</resources>

@@ -1,0 +1,41 @@
+"name","xmin","xcenter","xright","ymin","ycenter","yright","seg1x","seg1y","position1","position2","position3","position4"
+"butterfly spread", "-50", "50", "0","0", "0","0"
+"calendar straddle", "-50", "50", "0","0", "0","0"
+"condor", "-50", "50", "0","0", "0","0"
+"Iron Butterfly", "-50", "50", "0","0", "0","0"
+"Iron Condor", "-50", "50", "0","0", "0","0"
+"Long Put Butterfly", "-50", "50", "0","0", "0","0"
+"Long Straddle", "-50", "50", "0","0", "0","0"
+"Long Strangle", "-50", "50", "0","0", "0","0"
+"Neutral Calendar Spread", "-50", "50", "0","0", "0","0"
+"Put Ratio Spread", "-50", "50", "0","0", "0","0"
+"Ratio Call Write", "-50", "50", "0","0", "0","0"
+"Ratio Put Write", "-50", "50", "0","0", "0","0"
+"Ratio Spread", "-50", "50", "0","0", "0","0"
+"Short Butterfly", "-50", "50", "0","0", "0","0"
+"Short Condor", "-50", "50", "0","0", "0","0"
+"Short Put Butterfly", "-50", "50", "0","0", "0","0"
+"Short Straddle", "-50", "50", "0","0", "0","0"
+"Short Strangle", "-50", "50", "0","0", "0","0"
+"Variable Ratio Write", "-50", "50", "0","0", "0","0"
+"Reverse Iron Condor", "-50", "50", "0","0", "0","0"
+"Reverse Iron Butterfly", "-50", "50", "0","0", "0","0"
+"Long Guts", "-50", "50", "0","0", "0","0"
+"Short Guts", "-50", "50", "0","0", "0","0"
+"Long Call Ladder", "-50", "50", "0","0", "0","0"
+"Short Call Ladder", "-50", "50", "0","0", "0","0"
+"Long Put Ladder", "-50", "50", "0","0", "0","0"
+"Short Put Ladder", "-50", "50", "0","0", "0","0"
+"Strip", "-50", "50", "0","0", "0","0"
+"Synthetic Long Call",	{ t1 = "Long 100 Shares",           t2 = "Buy 1 ATM Put",    t3 =",   t4 = ""}, -- 
+"Synthetic Long Put",	{ t1 = "Short 100 Shares",          t2 = "Buy 1 ATM Call",   t3 = "", t4 = ""}, -- 
+"Synthetic Long Stock (Split Strikes)","	{ t1 = "Buy 1 OTM Call",            t2 = "Sell 1 OTM Put",   t3 = "", t4 = ""}, -- 
+	{ t1 = "Buy 1 ATM Call",            t2 = "Sell 1 ATM Put",   t3 = "", t4 = ""}, -- Synthetic Long Stock
+	{ t1 = "Short 100 Shares",          t2 = "Sell 1 ATM Put",   t3 = "", t4 = ""}, -- Synthetic Short Call
+	{ t1 = "Long 100 Shares",           t2 = "Sell 1 ATM Call",  t3 = "", t4 = ""}, -- Synthetic Short Put
+	{ t1 = "Sell 1 OTM Call",           t2 = "Buy 1 OTM Put",    t3 = "", t4 = ""}, -- Synthetic Short Stock (Split Strikes)
+	{ t1 = "Buy 1 ATM Put",             t2 = "Sell 1 ATM Call",  t3 = "", t4 = ""}, -- Synthetic Short Stock
+	{ t1 = "Buy 2 ATM Calls",           t2 = "Short 100 Shares", t3 = "", t4 = ""}, -- Long Call Synthetic Straddle
+	{ t1 = "Buy 2 ATM Puts",            t2 = "Long 100 Shares",  t3 = "", t4 = ""}, -- Long Put Synthetic Straddle
+	{ t1 = "Sell 2 ATM Calls",          t2 = "Long 100 Shares",  t3 = "", t4 = ""}, -- Short Call Synthetic Straddle
+	{ t1 = "Sell 2 ATM Puts",           t2 = "Short 100 Shares", t3 = "", t4 = ""}, -- Short Put Synthetic Straddle

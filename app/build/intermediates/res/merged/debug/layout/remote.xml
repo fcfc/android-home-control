@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:columnCount="3"
+        android:rowCount="6" >
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_column="0"
+            android:layout_gravity="left|top"
+            android:layout_row="0"
+            android:text="Front Door" />
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_height="0dp"
+            android:layout_column="2"
+            android:layout_gravity="left|top"
+            android:layout_row="2"
+            android:text="Button" />
+
+        <ImageButton
+            android:id="@+id/imageButton1"
+            android:layout_width="44dp"
+            android:layout_column="0"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_row="5"
+            android:src="@drawable/gradient" />
+
+        <ViewFlipper
+            android:id="@+id/viewFlipper1"
+            android:layout_column="2"
+            android:layout_gravity="left|top"
+            android:layout_row="5" >
+        </ViewFlipper>
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="65dp"
+            android:layout_column="2"
+            android:layout_gravity="left|top"
+            android:layout_row="0"
+            android:text="BR 1" />
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_column="2"
+            android:layout_gravity="left|top"
+            android:layout_row="2"
+            android:text="Sound" />
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="78dp"
+            android:layout_column="1"
+            android:layout_gravity="left|top"
+            android:layout_row="2"
+            android:text="LR" />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="88dp"
+            android:layout_column="0"
+            android:layout_gravity="left|top"
+            android:layout_row="2"
+            android:text="Hot Tub" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="80dp"
+            android:layout_column="1"
+            android:layout_gravity="left|top"
+            android:layout_row="0"
+            android:text="Hall" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="82dp"
+            android:layout_column="2"
+            android:layout_gravity="right|top"
+            android:layout_row="2"
+            android:text="Status" />
+
+        <Button
+            android:id="@+id/button15"
+            android:layout_column="2"
+            android:layout_gravity="right|top"
+            android:layout_row="0"
+            android:text="Button" />
+
+        <Button
+            android:id="@+id/button19"
+            android:layout_width="87dp"
+            android:layout_column="0"
+            android:layout_gravity="left|top"
+            android:layout_row="3"
+            android:text="Lock All" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="78dp"
+            android:layout_column="1"
+            android:layout_gravity="left|top"
+            android:layout_row="3"
+            android:text="Stereo" />
+
+        <Button
+            android:id="@+id/button13"
+            android:layout_width="84dp"
+            android:layout_column="0"
+            android:layout_gravity="left|top"
+            android:layout_row="4"
+            android:text="Button" />
+
+        <Button
+            android:id="@+id/button17"
+            android:layout_width="79dp"
+            android:layout_column="0"
+            android:layout_gravity="left|top"
+            android:layout_row="5"
+            android:text="Radio" />
+
+        <Button
+            android:id="@+id/button20"
+            android:layout_column="1"
+            android:layout_gravity="left|top"
+            android:layout_row="4"
+            android:text="Intercom" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="88dp"
+            android:layout_column="1"
+            android:layout_gravity="left|top"
+            android:layout_row="5"
+            android:text="Unlock" />
+
+        <Button
+            android:id="@+id/button12"
+            android:layout_column="2"
+            android:layout_gravity="left|top"
+            android:layout_row="3"
+            android:text="Button" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_column="2"
+            android:layout_gravity="right|top"
+            android:layout_row="3"
+            android:text="Button" />
+
+        <Button
+            android:id="@+id/button14"
+            android:layout_column="2"
+            android:layout_gravity="left|top"
+            android:layout_row="4"
+            android:text="Button" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton1"
+            android:layout_column="2"
+            android:layout_gravity="right|top"
+            android:layout_row="4"
+            android:text="ToggleButton" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton2"
+            android:layout_column="2"
+            android:layout_gravity="left|top"
+            android:layout_row="5"
+            android:text="ToggleButton" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton3"
+            android:layout_column="2"
+            android:layout_gravity="right|top"
+            android:layout_row="5"
+            android:text="ToggleButton" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton4"
+            android:layout_column="0"
+            android:layout_gravity="center"
+            android:layout_row="5"
+            android:text="ToggleButton" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton5"
+            android:layout_column="1"
+            android:layout_gravity="left|center_vertical"
+            android:layout_row="5"
+            android:text="ToggleButton" />
+
+        <Button
+            android:id="@+id/button16"
+            android:layout_column="2"
+            android:layout_gravity="left|center_vertical"
+            android:layout_row="5"
+            android:text="Button" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton6"
+            android:layout_column="2"
+            android:layout_gravity="right|center_vertical"
+            android:layout_row="5"
+            android:text="ToggleButton" />
+
+    </GridLayout>

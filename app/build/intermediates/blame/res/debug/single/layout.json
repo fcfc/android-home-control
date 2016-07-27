@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ice/Desktop/workspace/HomeControl1/app/build/intermediates/res/merged/debug/layout/homecalc.xml",
+        "source": "/home/ice/Desktop/workspace/HomeControl1/app/src/main/res/layout/homecalc.xml"
+    },
+    {
+        "merged": "/home/ice/Desktop/workspace/HomeControl1/app/build/intermediates/res/merged/debug/layout/remote.xml",
+        "source": "/home/ice/Desktop/workspace/HomeControl1/app/src/main/res/layout/remote.xml"
+    },
+    {
+        "merged": "/home/ice/Desktop/workspace/HomeControl1/app/build/intermediates/res/merged/debug/layout/list_item_slider.xml",
+        "source": "/home/ice/Desktop/workspace/HomeControl1/app/src/main/res/layout/list_item_slider.xml"
+    },
+    {
+        "merged": "/home/ice/Desktop/workspace/HomeControl1/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/home/ice/Desktop/workspace/HomeControl1/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/ice/Desktop/workspace/HomeControl1/app/build/intermediates/res/merged/debug/layout/display.xml",
+        "source": "/home/ice/Desktop/workspace/HomeControl1/app/src/main/res/layout/display.xml"
+    },
+    {
+        "merged": "/home/ice/Desktop/workspace/HomeControl1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/ice/Desktop/workspace/HomeControl1/app/src/main/res/layout/main.xml"
+    }
+]

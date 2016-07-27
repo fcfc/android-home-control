@@ -1,0 +1,3 @@
+"tube type", "plate voltage", "screen voltage", "heater voltage", "grid voltage", "plate current", "screen current", "plate resistance", "amp factor", "transconductance"
+"6L6", "250", "250", "6.3", "-14", "72", "5", "22500", "135", "6000 
+"EL34",

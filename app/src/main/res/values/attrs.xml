@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Graph">
+        <attr name="d1" format="integer"/>
+        <attr name="d2" format="integer"/>
+        <attr name="d3" format="integer"/>
+        <attr name="d4" format="integer"/>
+        <attr name="d5" format="integer"/>
+        <attr name="d6" format="integer"/>
+        <attr name="d7" format="integer"/>
+        <attr name="d8" format="integer"/>
+        <attr name="d9" format="integer"/>
+    </declare-styleable>
+</resources>
+

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ice/Desktop/workspace/HomeControl1/app/build/intermediates/res/merged/debug/raw/optiondata.txt",
+        "source": "/home/ice/Desktop/workspace/HomeControl1/app/src/main/res/raw/optiondata.txt"
+    },
+    {
+        "merged": "/home/ice/Desktop/workspace/HomeControl1/app/build/intermediates/res/merged/debug/raw/tubedata.csv",
+        "source": "/home/ice/Desktop/workspace/HomeControl1/app/src/main/res/raw/tubedata.csv"
+    }
+]

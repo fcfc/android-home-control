@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="cameras">
+    <item>Front Entry Camera</item>
+    <item>Back Camera</item>
+    <item>Deck Camera</item>
+    <item>Inside Front Door Camera</item>
+    <item>Room 5 Camera</item>
+    <item>Room 6 Camera</item>
+    <item>Room 7 Camera</item>
+    <item>Room 8 Camera</item>
+  </array>
+    <array name="lights">
+    <item>Front Door Light</item>
+    <item>Back Door Light</item>
+    <item>Living Room Light</item>
+    <item>Hall Light</item>
+    <item>Closet Lights</item>
+    <item>Bathroom Lights</item>
+    <item>Kitchen Lights</item>
+    <item>Back Room Lights</item>
+    <item>Study Lights</item>
+    <item>Outlet 2</item>
+  </array>
+    <array name="locks">
+    <item>Front Door 1 Lock</item>
+    <item>Front Door 2 Lock</item>
+    <item>Back Door 1 Lock</item>
+    <item>Back Door 2 Lock</item>
+    <item>Closet 1</item>
+    <item>Closet 2</item>
+    <item>Padlock 1</item>
+    <item>Padlock 2</item>
+  </array>
+    <array name="security">
+    <item>Front Entry Camera</item>
+    <item>Back Camera</item>
+    <item>Deck Camera</item>
+    <item>Inside Front Door Camera</item>
+    <item>Room 5 Camera</item>
+    <item>Room 6 Camera</item>
+    <item>Room 7 Camera</item>
+    <item>Room 8 Camera</item>
+  </array>
+    <array name="thermostat">
+    <item>Cool To</item>
+    <item>Heat To</item>
+    <item>Mode</item>
+    <item>Fan Mode</item>
+    <item>Current Temp</item>
+    <item>Temp Graph</item>
+    <item>Camera 1</item>
+    <item>Camera 2</item>
+
+  </array>
+    <declare-styleable name="Graph"><attr format="integer" name="d1"/><attr format="integer" name="d2"/><attr format="integer" name="d3"/><attr format="integer" name="d4"/><attr format="integer" name="d5"/><attr format="integer" name="d6"/><attr format="integer" name="d7"/><attr format="integer" name="d8"/><attr format="integer" name="d9"/></declare-styleable>
+    <string name="EC">Strike</string>
+    <string name="Mix">Price</string>
+    <string name="app_name">HomeControl</string>
+    <string name="hello">Greetings</string>
+    <string name="label">label</string>
+    <string name="main_no_items">No orders to display</string>
+    <string name="seekbar_from_touch">from</string>
+    <string name="seekbar_tracking_on">from</string>
+    <string name="slider1">Strike Price</string>
+    <string name="slider2">Risk</string>
+    <string name="title">test</string>
+    <string name="value1">Long 100 Shares</string>
+    <string name="value2">Buy 1 ATM Put</string>
+    <string name="value3"/>
+    <string name="value4"/>
+    <string name="xaxis">Stock Price at Expiration</string>
+    <string name="yaxis">Profit or</string>
+</resources>

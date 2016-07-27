@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Greetings</string>
+    <string name="app_name">HomeControl</string>
+    <string name="seekbar_from_touch">from</string>
+    <string name="seekbar_tracking_on">from</string>
+    <string name="title">test</string>
+    <string name="Mix">Price</string>
+    <string name="EC">Strike</string>
+    <string name="label">label</string>
+    <string name="main_no_items">No orders to display</string>
+    <string name="slider1">Strike Price</string>
+    <string name="slider2">Risk</string>
+    <string name="value1">Long 100 Shares</string>
+    <string name="value2">Buy 1 ATM Put</string>
+    <string name="value3"></string>
+    <string name="value4"></string>
+    <string name="xaxis">Stock Price at Expiration</string>
+    <string name="yaxis">Profit or</string>
+</resources>
